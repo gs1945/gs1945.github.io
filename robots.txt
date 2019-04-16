@@ -1,6 +1,4 @@
-User-agent: *
-Disallow:/1.jpg
-Disallow:/ABC/
-Disallow:/123/2.jpg/
-Disallow:/123.jpg/123.png
-Disallow:/1.jpg.jpg
+User-agent:*
+Disallow://favian.ico
+
+Sitemap:https://gs1945.github.io/sitemap.xml
